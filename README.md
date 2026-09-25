@@ -51,7 +51,7 @@ No third-party packages are required.
 **Archie B. - Developer**
 
 
-## V2 Interface
+## V2 Interface & User Control
 
 - Full-screen borderless presentation
 - Animated startup/loading sequence
@@ -60,16 +60,12 @@ No third-party packages are required.
 - Hover-responsive controls
 - Game-style home screen and feature card
 - ESC returns to the menu; ESC on the menu exits
-- Credits: Archie B. - Developer
-
-
-## V3 graphics/audio
-
 - Native-resolution back buffer instead of stretching a low-resolution frame
 - Code-drawn vector chess pieces instead of font glyphs
 - Cleaner move dots, capture rings and special-move markers
 - Local WAV sound effects for UI, moves, captures and game events
 - No Windows MessageBeep sounds
+- Credits: Archie B. - Developer
 
 ## Branding
 
